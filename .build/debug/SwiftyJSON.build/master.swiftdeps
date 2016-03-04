@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b361b0fc05, Clang 11493b0f62, Swift fc261045a5)"
+options: "f56e3e1cb6ff84bbde9019380dc34454"
+build_time: [510408985, 230894000]
+inputs:
+  "/Users/mitch/work/SwiftyJSON/Sources/SwiftyJSON.swift": [510408799, 0]

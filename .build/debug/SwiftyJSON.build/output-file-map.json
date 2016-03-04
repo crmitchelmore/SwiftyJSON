@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mitch/work/SwiftyJSON/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/Users/mitch/work/SwiftyJSON/Sources/SwiftyJSON.swift": {
+    "dependencies": "/Users/mitch/work/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/Users/mitch/work/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/Users/mitch/work/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/mitch/work/SwiftyJSON/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}
